@@ -1,0 +1,2 @@
+org.keycloak.custom.storage.mapper.ExampleProtocolMapper
+org.keycloak.custom.storage.mapper.GroupExampleProtocolMapper
